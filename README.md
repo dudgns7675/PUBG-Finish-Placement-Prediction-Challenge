@@ -7,7 +7,7 @@
 # Requirements  
 * 코드를 사용하기 위해서는 PUBG API KEY가 필요합니다.  
   API KEY는 다음 URL에서 얻을 수 있습니다.  
-  > https://developer.pubg.com/ 
+  > https://developer.pubg.com/  
   API KEY를 획득했다면 functions.py 코드의 player_data_collect 함수의 api_key 변수에 입력해 주어야 합니다.  
   개인용 API KEY를 사용하기 때문에 자신의 API KEY를 직접 입력해야 합니다.  
   또한 과도한 요청시 일시적으로 API KEY가 사용할 수 없게 될 수 있으니 주의하시길 바랍니다.
