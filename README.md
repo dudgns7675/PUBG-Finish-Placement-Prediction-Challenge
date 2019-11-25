@@ -24,8 +24,8 @@
 
 # Qick Start
 * API KEY와 모델 파일이 모두 준비되어 있다면 아래 명령어로 프로그램을 시작할 수 있습니다.
-```pip install -r requirements.txt  
-python PUBG_Prediction.py```
+``` pip install -r requirements.txt  
+python PUBG_Prediction.py ```
 
 * 아래 이미지와 같이 동작합니다.  
 <img src="https://drive.google.com/file/d/196Cbg3hIrQVFUMc53ndcSQ4paQbz8ckm/view?usp=sharing" width="450px" height="300px" title="manual" alt="manual"></img><br/>
