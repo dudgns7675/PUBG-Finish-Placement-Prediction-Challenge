@@ -32,7 +32,7 @@ def getAvgVal(dic):
 
 #유저데이터 추출 및 입력형식 변환 변수
 def player_data_collect(username, server):
-	api_key = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjN2EzYWVlMC1jYWM4LTAxMzYtY2JiMC0yMWIxMzgxMGE0OTkiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTQyMjYxMjQzLCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6InN1cHBseWJveCJ9.TcBL2STvq9MBxWD-m3ACQrgVlsoK23JKgPiwTCKb3ik"
+	api_key = "" # input your api key
 	pubg = PUBG(api_key, server)
 	player_data = pubg.players_from_names(username)[0]
 	player_season_data = player_data.get_current_season()

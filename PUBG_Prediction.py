@@ -12,7 +12,7 @@ class MainWindow(Ui_MainWindow):
         Ui_MainWindow.__init__(self)
         self.setupUi(w)
 
-        MainWindow.file_loaded_model = joblib.load('modelfile.pkl')
+        MainWindow.file_loaded_model = joblib.load('modelfile.pkl') # input your model file name
         if MainWindow.file_loaded_model == None:
             print("Model load fail!")
 
