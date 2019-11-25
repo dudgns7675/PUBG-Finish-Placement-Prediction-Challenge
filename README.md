@@ -48,6 +48,7 @@ model_training.py : 모델 학습에 사용된 코드입니다.
                     Kaggle kernal에서 동작하게 작성되었습니다.
 ```  
 * 본 프로젝트는 Kaggle의 PUBG Finish Placement Prediction 챌린지에 참가하여 진행되었습니다.  
+  데이터셋 또한 아래 링크에서 얻을 수 있습니다.  
   > https://www.kaggle.com/c/pubg-finish-placement-prediction/  
 * 아래는 2018년 상명대학교 프라임학과 경진대회 마이크로튜터링 부문 참가용으로 작성된 논문형식 보고서입니다.
   > http://bit.ly/35x4QLj
