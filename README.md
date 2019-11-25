@@ -30,7 +30,7 @@ python PUBG_Prediction.py
 ```
 
 * 아래 이미지와 같이 동작합니다.  
-[Manual](./manual.png)
+![Manual](./manual.png)
 
 
 
