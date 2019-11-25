@@ -17,7 +17,7 @@
   저희 프로젝트에서 기 학습시킨 모델 파일은 아래 주소에서 다운로드 받으실 수 있습니다.  
   > http://bit.ly/34fEIUY
   
-  파일의 기본 경로는 프로젝트 폴더 root 경로의 modelfile.pkl 입니다.  
+  파일의 기본 경로는 PUBG_Prediction.py와 같은 경로의 modelfile.pkl 입니다.  
   경로 변경이 필요하실 경우 PUBG_Prediction.py 코드에서 변경할 수 있습니다.  
   
 * 필요한 패키지는 requirements.txt 파일에 명시되어 있습니다.  
@@ -28,11 +28,11 @@
 * API KEY와 모델 파일이 모두 준비되어 있다면 아래 명령어로 프로그램을 시작할 수 있습니다.
 ```
 pip install -r requirements.txt  
-python PUBG_Prediction.py
+python ./codes/PUBG_Prediction.py
 ```
 
 * 아래 이미지와 같이 동작합니다.  
-![Manual](./manual.png)
+![Manual](./images/manual.png)
 
 
 
