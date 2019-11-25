@@ -32,13 +32,13 @@ python PUBG_Prediction.py ```
 
 
 
-# 참고사항
-* 코드는 Python 3.5 버전을 기준으로 작성되었습니다.
-* 각 코드 설명
-```PUBG_Prediction.py : Main code 입니다.  
+# 참고사항  
+* 코드는 Python 3.5 버전을 기준으로 작성되었습니다.  
+* 각 코드 설명  
+``` PUBG_Prediction.py : Main code 입니다.  
 functions.py : 함수 코드입니다.  
 mainwindow_ui.py : UI 구성 코드입니다. PyQt5로 작성되었습니다.  
-model_training.py : 모델 학습에 사용된 코드입니다. 실제 동작에는 영향이 끼치지 않는 참고용입니다. Kaggle kernal에서 동작하게 작성되었습니다.```  
+model_training.py : 모델 학습에 사용된 코드입니다. 실제 동작에는 영향이 끼치지 않는 참고용입니다. Kaggle kernal에서 동작하게 작성되었습니다. ```  
 * 본 프로젝트는 Kaggle의 PUBG Finish Placement Prediction 챌린지에 참가하여 진행되었습니다.  
   https://www.kaggle.com/c/pubg-finish-placement-prediction/  
 * 아래는 2018년 상명대학교 프라임학과 경진대회 마이크로튜터링 부문 참가용으로 작성된 논문형식 보고서입니다.
