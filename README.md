@@ -17,7 +17,7 @@
   저희 프로젝트에서 기 학습시킨 모델 파일은 아래 주소에서 다운로드 받으실 수 있습니다.  
   > http://bit.ly/34fEIUY
   
-  파일의 기본 경로는 프로젝트 폴더 내부의 medelfile.pkl 입니다.  
+  파일의 기본 경로는 프로젝트 폴더 root 경로의 modelfile.pkl 입니다.  
   경로 변경이 필요하실 경우 PUBG_Prediction.py 코드에서 변경할 수 있습니다.  
   
 * 필요한 패키지는 requirements.txt 파일에 명시되어 있습니다.  
